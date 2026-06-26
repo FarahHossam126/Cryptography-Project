@@ -11,7 +11,7 @@ A Python cryptography toolkit built with CustomTkinter, providing a clean dark-m
 | [Member 1 Name] | [@FarahHossam126](https://github.com/FarahHossam126) |
 | [Member 2 Name] | [@hlaessam504](https://github.com/hlaessam504)       |
 | [Member 3 Name] | [@menna0602](https://github.com/menna0602) |
-| [Member 4 Name] | [@username](https://github.com/username) |
+| [Member 4 Name] | [@hamsa77788](https://github.com/hamsa77788) |
 
 ---
 
